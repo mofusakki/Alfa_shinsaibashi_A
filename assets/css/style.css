@@ -58,11 +58,11 @@ input[type=text] {
 }
 
 ::-webkit-input-placeholder {
-  color: #00CCFF;
+  color: #000000;
 }
 
 :-ms-input-placeholder {
-  color: #CC0000;
+  color: #000000;
 }
 
 ::-ms-input-placeholder {
