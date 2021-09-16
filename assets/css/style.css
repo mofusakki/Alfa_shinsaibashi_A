@@ -66,7 +66,7 @@ input[type=text] {
 }
 
 ::-ms-input-placeholder {
-  color: #999;
+  color: #A3BACD;
 }
 
 ::placeholder {
@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #ffd700;
+  background-color: #FF700;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -239,16 +239,15 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #cc0000;
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #FFD700;
 }
 
 .bg-color--gray {
-  background-color: #e6e6e6;
-}
+  background-color: #A3BACD;}
 
 /*********************
 * title
@@ -336,7 +335,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #bb0000;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -453,7 +452,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d9e021;
+  background-color: #cc0000;
   padding: 30px 30px 60px;
   position: relative;
 }
